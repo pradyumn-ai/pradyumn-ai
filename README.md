@@ -34,7 +34,7 @@ As a Data Domain begineer with a strong passion for uncovering hidden stories in
 ---
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile-url)  
+- [LinkedIn] (https://www.linkedin.com/in/pradyumn7/) 
 - 📧 Email: pradyumn011@gmail.com
 
 ---
