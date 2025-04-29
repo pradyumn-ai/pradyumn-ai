@@ -1,15 +1,11 @@
 # 👋 Hi there, I'm Pradyumn  
 **Welcome to my Data Analytics Page**  
 Your friendly data enthusiast turning raw data into strategic insights.
-
 ---
 
 ## 💫 About Me
 
-I’m an aspiring **Data Analyst** with a strong passion for uncovering hidden stories in data. With a background in engineering and hands-on professional experience, I bring a unique mix of analytical thinking and business acumen.
-
-🔍 I enjoy exploring datasets, cleaning messy data, building dashboards, and answering key business questions using data-driven insights.  
-📈 I believe data has the power to transform decision-making in every industry — and I’m excited to be part of that transformation.
+As a Data Domain begineer with a strong passion for uncovering hidden stories in data and data technologies like Data Analystics as such I love how this can be leveraged to solve real world problems by extracting strategic insights from raw data with various tools available, With a background in engineering and hands-on professional experience, I bring a unique mix of analytical thinking, Problem Understandiing, and business acumen.
 ---
 
 ## 🎓 Education
