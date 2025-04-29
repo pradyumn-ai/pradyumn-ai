@@ -6,7 +6,7 @@ Your friendly data enthusiast turning raw data into strategic insights.
 
 ## 💫 About Me
 
-As a Data Domain begineer with a strong passion for uncovering hidden stories in data and data technologies like Data Analystics as such I love how this can be leveraged to solve real world problems by extracting strategic insights from raw data with various tools available, With a background in engineering and hands-on professional experience, I bring a unique mix of analytical thinking, Problem Understandiing, and business acumen.
+As a Data Domain begineer with a strong passion for uncovering hidden stories in data with data technologies like Data Analystics as such I love how this can be leveraged to solve real world problems by extracting strategic insights from raw data with various tools available, With a background in engineering and hands-on professional experience, I bring a unique mix of analytical thinking, Problem Understandiing, and business acumen.
 
 ---
 
